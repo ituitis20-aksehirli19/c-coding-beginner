@@ -17,3 +17,4 @@ int main() {
     printf("Your numbers digit is: %d\n", digit);
 
     return 0;
+}
